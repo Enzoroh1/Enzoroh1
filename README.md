@@ -17,7 +17,9 @@
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 -->
-Mi nombre es Enzo Roh, Técnico en Programación, recibido en la Universidad Tecnológica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer. Mi objetivo es conseguir un puesto laboral dentro del marco de mis estudios y habilidades, para así adquirir mayor experiencia y conocimientos, comprometiéndome con la empresa y aportar al crecimiento de la misma.
+Soy Técnico en Programación, recibido en la Universidad Tecnológica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer.
+👨🏼‍💻Tec. en Programación
+🌐Frontend Developer
 <br>
 <!--
 
