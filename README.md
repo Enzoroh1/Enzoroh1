@@ -18,7 +18,9 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 -->
 Soy Técnico en Programación, recibido en la Universidad Tecnológica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer.
+<br>
 👨🏼‍💻Tec. en Programación
+<br>
 🌐Frontend Developer
 <br>
 <!--
