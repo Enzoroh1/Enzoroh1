@@ -23,7 +23,7 @@ Soy Técnico en Programación, recibido en la Universidad Tecnológica Nacional 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,firebase,github,html,js,linux,nodejs,react,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,css,git,github,js,linux,nodejs,react,ts,vscode&perline=14" />
     <!--     aws,c,cpp,discord,docker,dynamodb,express,idea,java,kotlin,md,materialui,mongodb,mysql,nextjs,postman,py,redux,tailwind, -->
   </a>
 </p>
