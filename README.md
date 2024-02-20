@@ -26,6 +26,8 @@ Soy Técnico en Programación, recibido en la Universidad Tecnológica Nacional 
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,git,github,vscode,linux&perline=14" />
   </a>
 </p>
+<br>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
