@@ -42,15 +42,15 @@ Soy Técnico en Programación, recibido en la Universidad Tecnológica Nacional 
 
 <li>
 <a href="https://instagram.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%2300acee.svg?color=red&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  enzoroh-%2300acee.svg?color=red&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:enzoroh44@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  enzoroh44-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
