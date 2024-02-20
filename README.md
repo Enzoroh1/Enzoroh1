@@ -42,7 +42,7 @@ Soy Técnico en Programación, recibido en la Universidad Tecnológica Nacional 
 
 <li>
 <a href="https://instagram.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%2300acee.svg?color=#edeef1&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%2300acee.svg?color=edeef1&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 
